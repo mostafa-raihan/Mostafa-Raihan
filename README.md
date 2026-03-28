@@ -36,16 +36,10 @@
 
 ## 🚀 Projects
 
-### 🧠 MindLink - Digital Wellbeing App
-> AI-powered wellbeing assistant for elderly people built with Django and Gemini API  
-> Smart Aging Hackathon 2025
-
 ### 🏗 AIHub-IfcOpenShell — AI BIM Progress Monitoring
 > AI-assisted service manual generation using IfcOpenShell and Ollama  
 > RoboAI Academy
 
-### 🛒 Saver — Finnish Grocery Price Comparison
-> Smart app to compare grocery prices across Finnish stores
 
 ---
 
