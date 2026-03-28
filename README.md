@@ -10,7 +10,7 @@
 🤖 **Academy Student** @ RoboAI Academy  
 📍 Tampere, Finland  
 📫 mostafaraihan26@gmail.com  
-💼 Open to AI/ML freelance & full-time roles  
+💼 Seeking Trainee Position in AI/ML
 
 </div>
 
