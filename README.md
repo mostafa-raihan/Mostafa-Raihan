@@ -36,11 +36,16 @@
 
 ## 🚀 Projects
 
+### ⚡ [Axiom AI — Job Market Analyzer](https://github.com/mostafa-raihan/axiom_ai)
+> Real-time job market analyzer | FastAPI + SQLite + Docker  
+> Fetches 100+ live jobs, analyzes top skills, locations and companies  
+> Beautiful dark dashboard with interactive charts
+
 ### 🏗 AIHub-IfcOpenShell — AI BIM Progress Monitoring
 > AI-assisted service manual generation using IfcOpenShell and Ollama  
 > RoboAI Academy
 
-
+### 🌱 More Projects Coming Soon...
 ---
 
 ## 🏆 Certifications
@@ -50,14 +55,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-raihan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-raihan&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+## 🌱 Currently Working On
+- 🔨 Building AI & Data Engineering projects
+- 📚 3rd Year AI @ SAMK
+- 🤖 RoboAI Academy
 
 ---
 
@@ -67,7 +68,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaraihan26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-raihan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafa-raihan-379932290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-raihan-379932290/)
 
 </div>
 
