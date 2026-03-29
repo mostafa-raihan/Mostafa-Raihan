@@ -41,10 +41,6 @@
 > Fetches 100+ live jobs, analyzes top skills, locations and companies  
 > Beautiful dark dashboard with interactive charts
 
-### 🏗 AIHub-IfcOpenShell — AI BIM Progress Monitoring
-> AI-assisted service manual generation using IfcOpenShell and Ollama  
-> RoboAI Academy
-
 ### 🌱 More Projects Coming Soon...
 ---
 
